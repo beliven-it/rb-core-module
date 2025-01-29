@@ -9,13 +9,13 @@ The [Restboard](https://restboard.github.io/) core module
 First of all, you need to install the package in your project:
 
 ```bash
-npm i --save rb-core-module
+npm i --save @beliven/rb-core-module
 ```
 
 Now, you can start to define and use your [resources](#RbResource):
 
 ```js
-import { createResource } from 'rb-core-module'
+import { createResource } from '@beliven/rb-core-module'
 
 // Create a new resource
 const users = createResource({

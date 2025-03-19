@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/restboard/rb-core-module.git"
+    "url": "git+https://github.com/beliven-it/rb-core-module.git"
   },
   "keywords": [
     "restboard",
@@ -19,9 +19,9 @@
   "author": "Emanuele Bertoldi <emanuele.bertoldi@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/restboard/rb-core-module/issues"
+    "url": "https://github.com/beliven-it/rb-core-module/issues"
   },
-  "homepage": "https://github.com/restboard/rb-core-module#readme",
+  "homepage": "https://github.com/beliven-it/rb-core-module#readme",
   "dependencies": {
     "humanize-string": "^3.0.0"
   },

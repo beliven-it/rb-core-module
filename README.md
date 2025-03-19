@@ -2,7 +2,7 @@
 
 The [Restboard](https://restboard.github.io/) core module
 
-[![Node.js CI](https://github.com/restboard/rb-core-module/actions/workflows/node.js.yml/badge.svg)](https://github.com/restboard/rb-core-module/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/beliven-it/rb-core-module/actions/workflows/node.js.yml/badge.svg)](https://github.com/beliven-it/rb-core-module/actions/workflows/node.js.yml)
 
 ## Getting started
 
@@ -135,7 +135,7 @@ If you want, you can also freely donate to fund the project development:
 
 Please open a new issue on:
 
-<https://github.com/restboard/rb-core-module/issues>
+<https://github.com/beliven-it/rb-core-module/issues>
 
 ## License
 
